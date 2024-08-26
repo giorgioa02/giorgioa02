@@ -5,6 +5,7 @@
 ### 👀 Interests
 - **Artificial Intelligence**
 - **Cybersecurity**
+- **Cyber-physical Systems (CPS)**
 - **Full Stack Development**
 
 Thanks for visiting my GitHub!
