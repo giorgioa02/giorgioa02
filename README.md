@@ -1,6 +1,6 @@
 # Welcome to My Personal Github!
 ## About Me
-👋 Hello, I'm @giorgioa02, a passionate and dedicated computer science enthusiast. I graduated from Washington and Lee University in 2024 with a BA in Computer Science and I am currently pursuing a master's degree at Vanderbilt University. 
+👋 Hello, I'm @giorgioa02, a passionate and dedicated computer science student. I graduated from Washington and Lee University in 2024 with a BA in Computer Science and I am currently pursuing a master's degree at Vanderbilt University. 
 
 ### 👀 Interests
 - **Artificial Intelligence**
